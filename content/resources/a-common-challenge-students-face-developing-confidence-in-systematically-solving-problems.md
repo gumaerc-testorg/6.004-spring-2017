@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'A Common Challenge Students Face: Developing Confidence in Systematically
   Solving Problems'
@@ -10,7 +17,7 @@ video_files:
   archive_url: https://archive.org/download/MIT6.004S17/MIT6_004S17_Terman_Interview_300k.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/q38KAGAKORk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-004-computation-structures-spring-2017/2ae2f77768ef258e1cf804c648cf301c_q38KAGAKORk.pdf
+  video_transcript_file: /courses/6-004-computation-structures-spring-2017/2ae2f77768ef258e1cf804c648cf301c_q38KAGAKORk.pdf
 video_metadata:
   youtube_id: q38KAGAKORk
 ---

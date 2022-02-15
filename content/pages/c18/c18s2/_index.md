@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 18 Devices and Interrupts
+parent_type: CourseSection
 parent_uid: 2c92b4b6-593e-3038-6fc7-38856e2308fb
 title: 18.2 Topic Videos
 uid: fa697aed-8dfd-8206-d150-e1218c118201
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c18/c18s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c18/c18s1)
 *   [18.2.1OS Device Handlers]({{< baseurl >}}/pages/c18/c18s2)
 *   [18.2.2SVCs for Input/Output]({{< baseurl >}}/pages/c18/c18s2/c18s2v2)
 *   [18.2.3Example: Match Handler with OS]({{< baseurl >}}/pages/c18/c18s2/c18s2v3)

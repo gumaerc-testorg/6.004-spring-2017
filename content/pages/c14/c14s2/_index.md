@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 14 Caches and the Memory Hierarchy
+parent_type: CourseSection
 parent_uid: bb0a76eb-d0c8-86bf-0a4e-2106e7f17dd5
 title: 14.2 Topic Videos
 uid: e049ec91-6ab1-9944-2bd9-158b7136ada8
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c14/c14s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c14/c14s1)
 *   [14.2.1Memory Technologies]({{< baseurl >}}/pages/c14/c14s2)
 *   [14.2.2SRAM]({{< baseurl >}}/pages/c14/c14s2/c14s2v2)
 *   [14.2.3DRAM]({{< baseurl >}}/pages/c14/c14s2/c14s2v3)

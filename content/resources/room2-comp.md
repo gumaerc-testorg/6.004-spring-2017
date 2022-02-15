@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-004-computation-structures-spring-2017/32c0a7771674c67459e459b699b0e76e_room2-comp.jpg
+file: /media/courses/6-004-computation-structures-spring-2017/32c0a7771674c67459e459b699b0e76e_room2-comp.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: room2-comp.jpg
 uid: 32c0a777-1674-c674-59e4-59b699b0e76e

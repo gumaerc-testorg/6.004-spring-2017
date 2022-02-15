@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-004-computation-structures-spring-2017/09ef1fdd35f7ef0d9bf8ec5ad7efdc69_q38KAGAKORk.srt
+file: /media/courses/6-004-computation-structures-spring-2017/09ef1fdd35f7ef0d9bf8ec5ad7efdc69_q38KAGAKORk.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 09ef1fdd-35f7-ef0d-9bf8-ec5ad7efdc69

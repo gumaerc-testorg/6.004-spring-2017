@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 2 The Digital Abstraction
 uid: 350323ac-aa01-682d-7e3d-980d579da90c
 ---

@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 20 System-level Communication
+parent_type: CourseSection
 parent_uid: a78212de-6f2a-fd10-a0ba-99eedfa16bef
 title: 20.2 Topic Videos
 uid: 9acc3357-2435-756b-dcaf-c5ab86d755af
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c20/c20s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c20/c20s1)
 *   [20.2.1System-level Interfaces]({{< baseurl >}}/pages/c20/c20s2)
 *   [20.2.2Wires]({{< baseurl >}}/pages/c20/c20s2/c20s2v2)
 *   [20.2.3Buses]({{< baseurl >}}/pages/c20/c20s2/c20s2v3)

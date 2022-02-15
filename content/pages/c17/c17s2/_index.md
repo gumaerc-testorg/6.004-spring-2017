@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 17 Virtualizing the Processor
+parent_type: CourseSection
 parent_uid: 3d85b3c6-cc8e-d9e8-27ba-a39e0c5064f9
 title: 17.2 Topic Videos
 uid: 4ee7d448-d42f-22ac-fa6c-f0c41a85fe4f
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c17/c17s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c17/c17s1)
 *   [17.2.1Recap: Virtual Memory]({{< baseurl >}}/pages/c17/c17s2)
 *   [17.2.2Processes]({{< baseurl >}}/pages/c17/c17s2/c17s2v2)
 *   [17.2.3Timesharing]({{< baseurl >}}/pages/c17/c17s2/c17s2v3)

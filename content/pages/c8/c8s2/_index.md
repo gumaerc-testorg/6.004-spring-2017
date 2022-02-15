@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 8 Design Tradeoffs
+parent_type: CourseSection
 parent_uid: 6b8eb127-6fd5-8cc5-9e96-5a684d70f7c9
 title: 8.2 Topic Videos
 uid: ae991901-cdb6-6775-2838-78b6c6c26194
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c8/c8s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c8/c8s1)
 *   [8.2.1Power Dissipation]({{< baseurl >}}/pages/c8/c8s2)
 *   [8.2.2Carry-select Adders]({{< baseurl >}}/pages/c8/c8s2/c8s2v2)
 *   [8.2.3Carry-lookahead Adders]({{< baseurl >}}/pages/c8/c8s2/c8s2v3)

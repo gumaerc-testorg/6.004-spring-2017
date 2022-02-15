@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 15 Pipelining the Beta
 uid: 2b6492b8-d2dd-6c33-ae0c-6b5df540142b
 ---

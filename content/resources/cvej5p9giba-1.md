@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-004-computation-structures-spring-2017/21ba89ac5f3dcdf03b388762a98c022c_cVEj5p9GiBA.pdf
+file: /media/courses/6-004-computation-structures-spring-2017/21ba89ac5f3dcdf03b388762a98c022c_cVEj5p9GiBA.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 21ba89ac-5f3d-cdf0-3b38-8762a98c022c

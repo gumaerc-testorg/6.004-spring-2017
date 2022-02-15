@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3 CMOS
+parent_type: CourseSection
 parent_uid: 1a6131b0-2b8c-2f47-69db-158bbd05b575
 title: 3.2 Topic Videos
 uid: 335a4984-a0cf-abb0-a4f2-ea9f1bf5f315
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c3/c3s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c3/c3s1)
 *   [3.2.1MOSFET: Physical View]({{< baseurl >}}/pages/c3/c3s2)
 *   [3.2.2MOSFET: Electrical View]({{< baseurl >}}/pages/c3/c3s2/c3s2v2)
 *   [3.2.3CMOS Recipe]({{< baseurl >}}/pages/c3/c3s2/c3s2v3)

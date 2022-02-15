@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 11 Compilers
 uid: 2e15240f-872c-980b-fb93-06a9a5d2aff2
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 8 Design Tradeoffs
 uid: 6b8eb127-6fd5-8cc5-9e96-5a684d70f7c9
 ---

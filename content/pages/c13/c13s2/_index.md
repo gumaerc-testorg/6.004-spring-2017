@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 13 Building the Beta
+parent_type: CourseSection
 parent_uid: 4ce90d60-68fa-22b6-ad31-616717ca515c
 title: 13.2 Topic Videos
 uid: 0f5d07f6-2e94-7d88-a1f1-191b8a267539
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c13/c13s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c13/c13s1)
 *   [13.2.1Building Blocks]({{< baseurl >}}/pages/c13/c13s2)
 *   [13.2.2ALU Instructions]({{< baseurl >}}/pages/c13/c13s2/c13s2v2)
 *   [13.2.3Load and Store]({{< baseurl >}}/pages/c13/c13s2/c13s2v3)

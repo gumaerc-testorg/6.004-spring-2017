@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 10 Assembly Language, Models of Computation
+parent_type: CourseSection
 parent_uid: 15e8c35a-1d49-ac3c-be84-3d679465973c
 title: 10.2 Topic Videos
 uid: 8b20414c-f39f-e884-20ad-bf68575692e7
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c10/c10s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c10/c10s1)
 *   [10.2.1Intro to Assembly Language]({{< baseurl >}}/pages/c10/c10s2)
 *   [10.2.2Symbols and Labels]({{< baseurl >}}/pages/c10/c10s2/c10s2v2)
 *   [10.2.3Instruction Macros]({{< baseurl >}}/pages/c10/c10s2/c10s2v3)

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: afe08404-8e78-ace8-b662-e0ac78cd1a98
 ---
@@ -50,28 +52,6 @@ Curriculum Information
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A view of the lecture hall from the back left corner of the room, looking down toward the lectern and chalkboards.]({{< resource_file 18678bc9-f7e5-20af-2b07-039abb47f1a2 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures were held in a room equipped with tiered seats for 425, with multiple chalkboards and an A/V system.
-    
-*   ![A view of the recitation room, looking toward the chalkboard from the end of one of the rows of chairs.]({{< resource_file 32c0a777-1674-c674-59e4-59b699b0e76e >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations were held in a classroom equipped with tablet armchairs for 35, with a chalkboard and an A/V system.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

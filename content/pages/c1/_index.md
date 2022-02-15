@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 1 Basics of Information
 uid: 5e1b464a-9f55-f37c-1135-ec4ece6732b2
 ---

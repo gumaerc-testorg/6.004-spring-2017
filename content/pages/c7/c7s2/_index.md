@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 7 Performance Measures
+parent_type: CourseSection
 parent_uid: ff062356-dd4d-b849-14e8-05d7d47e5b64
 title: 7.2 Topic Videos
 uid: 73b2c57f-6d66-9b9c-4894-e14fae072f07
 ---
 
-*   [<Annotated Slides]({{< baseurl >}}/pages/c7/c7s1)
+*   [\<Annotated Slides]({{< baseurl >}}/pages/c7/c7s1)
 *   [7.2.1Latency and Throughput]({{< baseurl >}}/pages/c7/c7s2)
 *   [7.2.2Pipelined Circuits]({{< baseurl >}}/pages/c7/c7s2/c7s2v2)
 *   [7.2.3Pipelining Methodology]({{< baseurl >}}/pages/c7/c7s2/c7s2v3)

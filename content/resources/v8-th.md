@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-004-computation-structures-spring-2017/142de93e5398db0c147636e6b86f2b95_v8-th.jpg
+file: /media/courses/6-004-computation-structures-spring-2017/142de93e5398db0c147636e6b86f2b95_v8-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: v8-th.jpg
 uid: 142de93e-5398-db0c-1476-36e6b86f2b95

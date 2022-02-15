@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 10 Assembly Language, Models of Computation
 uid: 15e8c35a-1d49-ac3c-be84-3d679465973c
 ---

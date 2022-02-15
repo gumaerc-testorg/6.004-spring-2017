@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 17 Virtualizing the Processor
 uid: 3d85b3c6-cc8e-d9e8-27ba-a39e0c5064f9
 ---

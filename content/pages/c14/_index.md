@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 14 Caches and the Memory Hierarchy
 uid: bb0a76eb-d0c8-86bf-0a4e-2106e7f17dd5
 ---

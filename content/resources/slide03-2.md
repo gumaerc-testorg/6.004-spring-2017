@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Image: '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-004-computation-structures-spring-2017/d18fcd081f55667ad0111c80b6173df6_Slide03.png
+file: /media/courses/6-004-computation-structures-spring-2017/d18fcd081f55667ad0111c80b6173df6_Slide03.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 3.1 Annotated Slides
+parent_type: CourseSection
 resourcetype: Image
 title: Slide03.png
 uid: d18fcd08-1f55-667a-d011-1c80b6173df6
