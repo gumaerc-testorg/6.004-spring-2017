@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 12.3 Worksheet
 parent_type: CourseSection
+parent_uid: c2c69358-3e7e-117f-0cb8-97b345bbc086
 resourcetype: Document
 title: procedures_answers.pdf
 uid: c675efdb-a53d-c4ec-1d14-46b3d44fda1e

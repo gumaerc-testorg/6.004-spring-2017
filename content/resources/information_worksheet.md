@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 1.3 Worksheet
 parent_type: CourseSection
+parent_uid: f46386c5-ec0e-5ec2-ca4d-528ff1e6d0bb
 resourcetype: Document
 title: information_worksheet.pdf
 uid: 79ff7fa2-8d6a-ec43-d3b7-5fb24f278463

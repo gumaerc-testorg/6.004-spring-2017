@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 15.3 Worksheet
 parent_type: CourseSection
+parent_uid: a9a1cc07-a231-ae83-e932-2ed49506c610
 resourcetype: Document
 title: pipelinedbeta_answers.pdf
 uid: 1ade70d4-498d-fcae-44db-df94d3bdc97c

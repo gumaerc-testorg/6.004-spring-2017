@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 7.3 Worksheet
 parent_type: CourseSection
+parent_uid: 5a1d9c82-ae55-5d9b-4ce5-afd224c16043
 resourcetype: Document
 title: pipelined_worksheet.pdf
 uid: 86b48483-09c6-85d5-39c4-d81b7b14df33

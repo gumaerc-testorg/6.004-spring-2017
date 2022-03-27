@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Teaching Large Lecture Classes: The Importance of Stories and Disfluency'
 uid: 213c16bc-3a1a-9535-e06a-6e14bfde68e0
 video_files:

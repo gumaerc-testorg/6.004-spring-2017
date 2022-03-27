@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'The Fun is in the Doing of the Puzzle: Self-Paced Mastery Learning and Moving
   Beyond the Answer'
 uid: c55634af-39dd-9b36-aea5-15aa26ab4768

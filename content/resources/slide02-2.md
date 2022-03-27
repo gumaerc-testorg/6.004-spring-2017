@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 3.1 Annotated Slides
 parent_type: CourseSection
+parent_uid: d77171d7-bbaa-8eb5-d974-6a2895701253
 resourcetype: Image
 title: Slide02.png
 uid: 42e5019b-e6a7-9c38-0e6a-8cb9833f028d

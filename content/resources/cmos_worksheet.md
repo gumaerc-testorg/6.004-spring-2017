@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 3.3 Worksheet
 parent_type: CourseSection
+parent_uid: 45356b55-3771-6031-956c-7ded0603cfb7
 resourcetype: Document
 title: cmos_worksheet.pdf
 uid: 7f73434b-6761-16a3-df81-3718c685a42d

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Non-volatile Storage; Using the Hierarchy (8:43)
 uid: bb376fa4-75f3-c9c5-2c07-5893c67dfe96
 video_files:

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 15.1 Annotated Slides
 parent_type: CourseSection
+parent_uid: 76ea0269-3b06-ecaa-e0bb-d8ca4be4bb7e
 resourcetype: Image
 title: Slide06.png
 uid: e5073dfe-addd-7cf9-4757-0fdb55ec8511

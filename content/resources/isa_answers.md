@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 9.3 Worksheet
 parent_type: CourseSection
+parent_uid: 0f1a2fc6-f501-ba70-cf84-b4d71722a65d
 resourcetype: Document
 title: isa_answers.pdf
 uid: 2b2334e5-4010-ecf5-66b5-0fe28a1fd24c

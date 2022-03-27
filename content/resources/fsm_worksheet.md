@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 6.3 Worksheet
 parent_type: CourseSection
+parent_uid: be13eea8-200c-47ed-3464-b6b332afcd96
 resourcetype: Document
 title: fsm_worksheet.pdf
 uid: 927b5144-9d7e-dcb1-c7c7-319bb22d72a9

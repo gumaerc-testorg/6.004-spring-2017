@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 2.3 Worksheet
 parent_type: CourseSection
+parent_uid: cd27e83b-4e39-1850-db5f-aab1b06be4a0
 resourcetype: Document
 title: digital_worksheet.pdf
 uid: 210fd951-4f01-b279-1eba-384f2e2ca366

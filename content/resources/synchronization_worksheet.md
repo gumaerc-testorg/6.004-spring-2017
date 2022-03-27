@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 19.3 Worksheet
 parent_type: CourseSection
+parent_uid: 8820f7c1-0771-7309-c202-bdd18171ca42
 resourcetype: Document
 title: synchronization_worksheet.pdf
 uid: d4f07c55-f732-b1b9-3c06-16511f9a3e06

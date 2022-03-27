@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 11.3 Worksheet
 parent_type: CourseSection
+parent_uid: 47c4729e-2a5e-9dfa-6a07-fc5ae5ed469f
 resourcetype: Document
 title: compilation_answers
 uid: 97fc8d99-b83b-ba67-47db-963df8585531

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 18.3 Worksheet
 parent_type: CourseSection
+parent_uid: f0658301-b67e-cbfc-76ec-db0caa42768e
 resourcetype: Document
 title: interrupts_worksheet.pdf
 uid: 7dcfdf35-5caa-19e6-003d-6d7960039d13

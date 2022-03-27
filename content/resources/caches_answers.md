@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 14.3 Worksheet
 parent_type: CourseSection
+parent_uid: 0845b426-e819-9b1a-84ed-2a828a0f014a
 resourcetype: Document
 title: caches_answers.pdf
 uid: b71446c5-273c-385d-fcc4-e50f00a26b6a

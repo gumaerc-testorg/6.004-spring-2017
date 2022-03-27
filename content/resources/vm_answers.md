@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 16.3 Worksheet
 parent_type: CourseSection
+parent_uid: 9fc3bb09-1d14-9f85-ed27-77bace810678
 resourcetype: Document
 title: vm_answers.pdf
 uid: 67e3d8a2-266d-56cf-9ca5-c2a496aa353b
