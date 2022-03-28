@@ -14,24 +14,24 @@ Instructor Insights
 
 _In the following video and Chalk Radio podcast episode, Chris Terman describes various aspects of how he taught_ 6.004 Computation Structures.
 
-[An Interview with Christopher Terman on Teaching Computation Structures]({{< baseurl >}}/resources/an-interview-with-christopher-terman-on-teaching-computation-structures)
+{{% resource_link 6b51b112-bd65-9ef1-947d-69b7a6dd049d "An Interview with Christopher Terman on Teaching Computation Structures" %}}
 
 View by chapter
 
 [![A woman and a man talking in a room.]({{< resource_file c6349d75-30a9-cd25-d7bc-699c0edc1647 >}})]({{< baseurl >}}/resources/meet-the-educator)
 
-*   [Meet the Educator]({{< baseurl >}}/resources/meet-the-educator)
-*   [When Students Come with Different Backgrounds, Offer a Buffet of Learning Materials]({{< baseurl >}}/resources/when-students-come-with-different-backgrounds-offer-a-buffet-of-learning-materials)
-*   [Using the MITx Platform to Structure Learning Sequences]({{< baseurl >}}/resources/using-the-mitx-platform-to-structure-learning-sequences)
-*   [Conceptualizing Online Courses as Educational Labs]({{< baseurl >}}/resources/conceptualizing-online-courses-as-educational-labs)
-*   [Teaching Large Lecture Classes: The Importance of Stories and Disfluency]({{< baseurl >}}/resources/teaching-large-lecture-classes-the-importance-of-stories-and-disfluency)
-*   [The Teaching Team: From Lab Assistants to Faculty Members, the Range of Experience is Key]({{< baseurl >}}/resources/the-teaching-team-from-lab-assistants-to-faculty-members-the-range-of-experience-is-key)
-*   [With Online Fora, Being Stuck is Just a 10-Minute Process]({{< baseurl >}}/resources/with-online-fora-being-stuck-is-just-a-10-minute-process)
-*   [Using Browser-Based Programming Environments to Engage Students in the Practice of Engineering]({{< baseurl >}}/resources/using-browser-based-programming-environments-to-engage-students-in-the-practice-of-engineering)
-*   [A Common Challenge Students Face: Developing Confidence in Systematically Solving Problems]({{< baseurl >}}/resources/a-common-challenge-students-face-developing-confidence-in-systematically-solving-problems)
-*   [Hallway Learning: The Value of Common Learning Experiences at the Undergraduate Level]({{< baseurl >}}/resources/hallway-learning-the-value-of-common-learning-experiences-at-the-undergraduate-level)
-*   [The Fun is in the Doing of the Puzzle: Self-Paced Mastery Learning and Moving Beyond the Answer]({{< baseurl >}}/resources/the-fun-is-in-the-doing-of-the-puzzle-self-paced-mastery-learning-and-moving-beyond)
-*   [Engineering Learning Materials: An Iterative Process]({{< baseurl >}}/resources/engineering-learning-materials-an-iterative-process)
+*   {{% resource_link 132b4773-3716-6146-d893-4c0c2f80c3da "Meet the Educator" %}}
+*   {{% resource_link 5e39e75f-7595-9088-a5e3-bb6755e848c8 "When Students Come with Different Backgrounds, Offer a Buffet of Learning Materials" %}}
+*   {{% resource_link df2d7ba2-ac0b-c7eb-54b8-89527e4bc256 "Using the MITx Platform to Structure Learning Sequences" %}}
+*   {{% resource_link 039d8ea6-389d-03c9-87dc-3c26e42a6772 "Conceptualizing Online Courses as Educational Labs" %}}
+*   {{% resource_link 213c16bc-3a1a-9535-e06a-6e14bfde68e0 "Teaching Large Lecture Classes: The Importance of Stories and Disfluency" %}}
+*   {{% resource_link 165f36c1-ed46-8737-b10a-45ffbd80355e "The Teaching Team: From Lab Assistants to Faculty Members, the Range of Experience is Key" %}}
+*   {{% resource_link 9d3ba6e3-ca45-bb85-5a16-9a2882c4086a "With Online Fora, Being Stuck is Just a 10-Minute Process" %}}
+*   {{% resource_link 538fd312-ab5f-ab3e-a60a-79da2bcbcf3f "Using Browser-Based Programming Environments to Engage Students in the Practice of Engineering" %}}
+*   {{% resource_link 47cd64fd-e729-c3ac-c9d2-799bbe596c2c "A Common Challenge Students Face: Developing Confidence in Systematically Solving Problems" %}}
+*   {{% resource_link 0be907b0-2066-31d3-366b-397a5428686b "Hallway Learning: The Value of Common Learning Experiences at the Undergraduate Level" %}}
+*   {{% resource_link c55634af-39dd-9b36-aea5-15aa26ab4768 "The Fun is in the Doing of the Puzzle: Self-Paced Mastery Learning and Moving Beyond the Answer" %}}
+*   {{% resource_link 7f0a0e25-9907-2ea8-a857-1345faaf1d92 "Engineering Learning Materials: An Iterative Process" %}}
 
 {{< simplecast 7f1a19e0-3ded-4563-bd25-d14c5593c2ea >}}
 

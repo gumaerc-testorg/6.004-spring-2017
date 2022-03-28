@@ -9,21 +9,21 @@ title: 2.2 Topic Videos
 uid: 80ba6453-e630-7129-a21b-4719e902522d
 ---
 
-*   [\<Annotated Slides]({{< baseurl >}}/pages/c2/c2s1)
-*   [2.2.1Concrete Encoding of Information]({{< baseurl >}}/pages/c2/c2s2)
-*   [2.2.2Analog Signaling]({{< baseurl >}}/pages/c2/c2s2/c2s2v2)
-*   [2.2.3Using Voltages Digitally]({{< baseurl >}}/pages/c2/c2s2/c2s2v3)
-*   [2.2.4Combinational Devices]({{< baseurl >}}/pages/c2/c2s2/c2s2v4)
-*   [2.2.5Dealing with Noise]({{< baseurl >}}/pages/c2/c2s2/c2s2v5)
-*   [2.2.6Voltage Transfer Characteristic]({{< baseurl >}}/pages/c2/c2s2/c2s2v6)
-*   [2.2.7VTC Example]({{< baseurl >}}/pages/c2/c2s2/c2s2v7)
-*   [2.2.8Worked Examples]({{< baseurl >}}/pages/c2/c2s2/c2s2v8)
-*   [\>Analog Signaling]({{< baseurl >}}/pages/c2/c2s2/c2s2v2)
+*   {{% resource_link f36c8cab-16b9-624b-b4fe-c82e9ddf0f73 "\<Annotated Slides" %}}
+*   {{% resource_link 80ba6453-e630-7129-a21b-4719e902522d "2.2.1Concrete Encoding of Information" %}}
+*   {{% resource_link fb9df0c3-ec3d-3a22-77f1-def9add07d64 "2.2.2Analog Signaling" %}}
+*   {{% resource_link fd3b6e6e-13b8-4836-c9e2-4392df9811bc "2.2.3Using Voltages Digitally" %}}
+*   {{% resource_link 30ea8e3c-c14e-3e60-4e85-7230b588aad3 "2.2.4Combinational Devices" %}}
+*   {{% resource_link cc1618c5-f256-7072-7666-9f29cdef6936 "2.2.5Dealing with Noise" %}}
+*   {{% resource_link 75c70348-54b2-4450-c6c1-190a0c55c195 "2.2.6Voltage Transfer Characteristic" %}}
+*   {{% resource_link a78d8974-ee1c-e2ee-6e4a-e9aaa33502d4 "2.2.7VTC Example" %}}
+*   {{% resource_link 60f3ddec-4479-775b-1554-28c1ce33c1b5 "2.2.8Worked Examples" %}}
+*   {{% resource_link fb9df0c3-ec3d-3a22-77f1-def9add07d64 "\>Analog Signaling" %}}
 
 Concrete Encoding of Information (4:16)
 ---------------------------------------
 
 {{< resource 49142a1b-c430-1c7a-3ee4-a8d63a9fd6f9 >}}
 
-*   [BackAnnotated Slides]({{< baseurl >}}/pages/c2/c2s1)
-*   [ContinueAnalog Signaling]({{< baseurl >}}/pages/c2/c2s2/c2s2v2)
+*   {{% resource_link f36c8cab-16b9-624b-b4fe-c82e9ddf0f73 "BackAnnotated Slides" %}}
+*   {{% resource_link fb9df0c3-ec3d-3a22-77f1-def9add07d64 "ContinueAnalog Signaling" %}}
