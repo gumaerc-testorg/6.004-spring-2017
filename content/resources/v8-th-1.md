@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: v8-th.jpg
 uid: 5528e099-b04b-092f-ec32-fd0124a7f635

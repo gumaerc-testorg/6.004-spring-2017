@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: v10-th.jpg
 uid: 822188e0-ab1e-edde-c43a-fab64c1163dc

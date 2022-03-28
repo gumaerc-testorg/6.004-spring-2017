@@ -5,6 +5,7 @@ file: /media/courses/6-004-computation-structures-spring-2017/95b85f40685c1ac9c0
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 95b85f40-685c-1ac9-c094-365769d28fc1

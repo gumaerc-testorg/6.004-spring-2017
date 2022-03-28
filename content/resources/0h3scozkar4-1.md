@@ -5,6 +5,7 @@ file: /media/courses/6-004-computation-structures-spring-2017/634bc0bd376f3503c1
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 634bc0bd-376f-3503-c191-e4e2f200152e

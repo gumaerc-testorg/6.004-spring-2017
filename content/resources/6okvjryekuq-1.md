@@ -5,6 +5,7 @@ file: /media/courses/6-004-computation-structures-spring-2017/bece3db10260a458d5
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: bece3db1-0260-a458-d56e-20331f86e0ed
