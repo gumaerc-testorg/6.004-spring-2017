@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: 21.2 Topic Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Cache Coherence
 uid: c66fe03a-7124-fba5-b2c0-a13f3f13ec7d
 video_files:

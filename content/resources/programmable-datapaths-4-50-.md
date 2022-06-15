@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: 9.2 Topic Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Programmable Datapaths (4:50)
 uid: 421ee09a-248a-669c-fe5f-1d9d654ecc7f
 video_files:

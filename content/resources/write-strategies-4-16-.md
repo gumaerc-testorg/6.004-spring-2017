@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: 14.2 Topic Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Write Strategies (4:16)
 uid: 5116a90c-ab3f-9e26-e120-fdf0efc7eb33
 video_files:

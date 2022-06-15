@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: 1.2 Topic Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Encoding (3:49)
 uid: 9be8fede-b1e7-14c3-391b-e2f17d7fe330
 video_files:

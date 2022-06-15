@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Image: '
-file: /media/courses/6-004-computation-structures-spring-2017/3760061cff104997306fe7aa897efd8e_Slide21.png
+file: /courses/6-004-computation-structures-spring-2017/3760061cff104997306fe7aa897efd8e_Slide21.png
 file_type: image/png
 image_metadata:
   caption: ''
@@ -16,3 +16,5 @@ resourcetype: Image
 title: Slide21.png
 uid: 3760061c-ff10-4997-306f-e7aa897efd8e
 ---
+Image: 
+

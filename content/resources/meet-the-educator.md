@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: '107'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '5'
 title: Meet the Educator
 uid: 132b4773-3716-6146-d893-4c0c2f80c3da
 video_files:

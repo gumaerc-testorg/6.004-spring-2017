@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: '2035'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1757'
 title: 'Engineering Learning Materials: An Iterative Process'
 uid: 7f0a0e25-9907-2ea8-a857-1345faaf1d92
 video_files:

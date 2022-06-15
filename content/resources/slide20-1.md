@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Image: '
-file: /media/courses/6-004-computation-structures-spring-2017/b2386ed22dcaa360690f7bb92ceccd46_Slide20.png
+file: /courses/6-004-computation-structures-spring-2017/b2386ed22dcaa360690f7bb92ceccd46_Slide20.png
 file_type: image/png
 image_metadata:
   caption: ''
@@ -16,3 +16,5 @@ resourcetype: Image
 title: Slide20.png
 uid: b2386ed2-2dca-a360-690f-7bb92ceccd46
 ---
+Image: 
+

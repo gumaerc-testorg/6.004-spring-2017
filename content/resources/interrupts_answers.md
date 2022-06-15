@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Resource:'
-file: /media/courses/6-004-computation-structures-spring-2017/adbde33502e9159816b1bd73893f95fa_interrupts_answers.pdf
+file: /courses/6-004-computation-structures-spring-2017/adbde33502e9159816b1bd73893f95fa_interrupts_answers.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: interrupts_answers.pdf
 uid: adbde335-02e9-1598-16b1-bd73893f95fa
 ---
+Resource:
+

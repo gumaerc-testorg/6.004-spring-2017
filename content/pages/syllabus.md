@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This page provides information on course policy of the MIT course 6.004
+  Computation Structures of 2017 Spring.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 03d6d4cc-d256-5a7b-39f7-f75e9ca36583
 ---

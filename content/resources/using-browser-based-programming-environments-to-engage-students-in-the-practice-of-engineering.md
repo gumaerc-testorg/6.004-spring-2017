@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: '1285'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '991'
 title: Using Browser-Based Programming Environments to Engage Students in the Practice
   of Engineering
 uid: 538fd312-ab5f-ab3e-a60a-79da2bcbcf3f

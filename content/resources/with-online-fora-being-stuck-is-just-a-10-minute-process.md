@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: '990'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '800'
 title: With Online Fora, Being Stuck is Just a 10-Minute Process
 uid: 9d3ba6e3-ca45-bb85-5a16-9a2882c4086a
 video_files:

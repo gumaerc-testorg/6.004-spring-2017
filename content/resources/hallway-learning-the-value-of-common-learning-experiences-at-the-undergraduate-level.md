@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: '1585'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1470'
 title: 'Hallway Learning: The Value of Common Learning Experiences at the Undergraduate
   Level'
 uid: 0be907b0-2066-31d3-366b-397a5428686b

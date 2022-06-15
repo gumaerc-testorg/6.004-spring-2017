@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-004-computation-structures-spring-2017/2921e505fe0891f5e6e0b6d5d43e9bfa_video_placeholder.jpg
+file: /courses/6-004-computation-structures-spring-2017/2921e505fe0891f5e6e0b6d5d43e9bfa_video_placeholder.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

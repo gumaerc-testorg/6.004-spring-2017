@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-004-computation-structures-spring-2017/c67dbe0cec8cd3b542e15c8144a97705_v1-th.jpg
+file: /courses/6-004-computation-structures-spring-2017/c67dbe0cec8cd3b542e15c8144a97705_v1-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -9,7 +9,6 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
-parent_uid: null
 resourcetype: Image
 title: v1-th.jpg
 uid: c67dbe0c-ec8c-d3b5-42e1-5c8144a97705
