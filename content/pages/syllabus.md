@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides information on course policy of the MIT course 6.004
+  Computation Structures of 2017 Spring.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 03d6d4cc-d256-5a7b-39f7-f75e9ca36583
 ---
@@ -25,7 +29,7 @@ The problem sets and lab exercises are intended to give students "hands-on" expe
 Prerequisites
 -------------
 
-[_8.02 Physics II: Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/)
+[_8.02 Physics II: Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007)
 
 Learning Objectives
 -------------------
@@ -122,7 +126,7 @@ A
 B
 {{< tdclose >}}
 {{< tdopen >}}
-155 ≤ total points < 175
+155 ≤ total points \< 175
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +135,7 @@ B
 C
 {{< tdclose >}}
 {{< tdopen >}}
-135 ≤ total points < 155
+135 ≤ total points \< 155
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +144,7 @@ C
 D
 {{< tdclose >}}
 {{< tdopen >}}
-115 ≤ total points < 135
+115 ≤ total points \< 135
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +153,7 @@ D
 F
 {{< tdclose >}}
 {{< tdopen >}}
-total points < 115, missing lab
+total points \< 115, missing lab
 {{< tdclose >}}
 
 {{< trclose >}}
