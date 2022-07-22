@@ -4,6 +4,7 @@ description: 'Resource:'
 file: /courses/6-004-computation-structures-spring-2017/e3780374f88b6201126fccda717635f7_caches_worksheet.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 14.3 Worksheet
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: caches_worksheet.pdf
 uid: e3780374-f88b-6201-126f-ccda717635f7
 ---
 Resource:
-

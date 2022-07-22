@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-004-computation-structures-spring-2017/cd2b989286da3e8c771d3f84ede7f4c3_q38KAGAKORk.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

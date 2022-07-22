@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 8.1 Annotated Slides
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Slide16.png
 uid: fb004b83-63ed-061d-385f-690330be17ca
 ---
 Image: 
-

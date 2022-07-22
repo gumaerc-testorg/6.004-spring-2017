@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Content of each slide on this webpage is described in the surrounding
     text.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 6.1 Annotated Slides
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Slide02.png
 uid: 68c02542-c606-a9df-beb4-3171bcbb9d61
 ---
 Image: 
-
