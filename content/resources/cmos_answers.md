@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Resource:'
 file: /courses/6-004-computation-structures-spring-2017/f2146024a9ac6773c8a6a8d884aef113_cmos_answers.pdf
+file_size: 340832
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
