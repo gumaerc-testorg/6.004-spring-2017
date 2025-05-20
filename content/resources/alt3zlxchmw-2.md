@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-004-computation-structures-spring-2017/5306f40c227458dcb796d4bf96bbe6e8_AlT3zLxcHmw.vtt
+file_size: 11740
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

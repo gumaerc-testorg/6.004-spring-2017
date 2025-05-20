@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Image: '
 file: /courses/6-004-computation-structures-spring-2017/2528a3240357161dfe04883b640589ed_Slide14.png
+file_size: 173863
 file_type: image/png
 image_metadata:
   caption: ''

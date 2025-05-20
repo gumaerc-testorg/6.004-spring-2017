@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Resource:'
 file: /courses/6-004-computation-structures-spring-2017/7f73434b676116a3df813718c685a42d_cmos_worksheet.pdf
+file_size: 555416
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

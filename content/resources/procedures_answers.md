@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Resource:'
 file: /courses/6-004-computation-structures-spring-2017/c675efdba53dc4ec1d1446b3d44fda1e_procedures_answers.pdf
+file_size: 407575
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
