@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Resource:'
-file: /courses/6-004-computation-structures-spring-2017/7dcfdf355caa19e6003d6d7960039d13_interrupts_worksheet.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2017/7dcfdf355caa19e6003d6d7960039d13_interrupts_worksheet.pdf
 file_size: 304255
 file_type: application/pdf
 learning_resource_types: []

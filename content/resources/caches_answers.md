@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Resource:'
-file: /courses/6-004-computation-structures-spring-2017/b71446c5273c385dfcc4e50f00a26b6a_caches_answers.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2017/b71446c5273c385dfcc4e50f00a26b6a_caches_answers.pdf
 file_size: 766745
 file_type: application/pdf
 learning_resource_types: []

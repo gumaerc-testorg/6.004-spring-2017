@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-004-computation-structures-spring-2017/db132a457058a801d5ec13738453254c_MIT-6-004s17-Lec19-ImageCredits.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2017/db132a457058a801d5ec13738453254c_MIT-6-004s17-Lec19-ImageCredits.pdf
 file_size: 73470
 file_type: application/pdf
 learning_resource_types: []
