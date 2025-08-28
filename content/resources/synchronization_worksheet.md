@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Resource:'
-file: /courses/6-004-computation-structures-spring-2017/d4f07c55f732b1b93c0616511f9a3e06_synchronization_worksheet.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2017/d4f07c55f732b1b93c0616511f9a3e06_synchronization_worksheet.pdf
 file_size: 526095
 file_type: application/pdf
 learning_resource_types: []

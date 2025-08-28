@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-004-computation-structures-spring-2017/8b55bf530030cec033f034f1577a4389_qSLkk5o1Mc8.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2017/8b55bf530030cec033f034f1577a4389_qSLkk5o1Mc8.pdf
 file_size: 13220
 file_type: application/pdf
 learning_resource_types: []
