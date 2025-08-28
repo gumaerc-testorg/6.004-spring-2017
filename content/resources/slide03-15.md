@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Image: '
-file: /courses/6-004-computation-structures-spring-2017/85258de6b1b2b4bd123d45aac81a9b78_Slide03.png
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2017/85258de6b1b2b4bd123d45aac81a9b78_Slide03.png
 file_size: 160676
 file_type: image/png
 image_metadata:

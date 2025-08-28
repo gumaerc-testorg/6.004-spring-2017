@@ -10,34 +10,34 @@ uid: afe08404-8e78-ace8-b662-e0ac78cd1a98
 
 ## Instructor Insights
 
-_In the following video and Chalk Radio podcast episode, Chris Terman describes various aspects of how he taught_ 6.004 Computation Structures.
+*In the following video and Chalk Radio podcast episode, Chris Terman describes various aspects of how he taught* 6.004 Computation Structures.
 
-{{% resource_link 6b51b112-bd65-9ef1-947d-69b7a6dd049d "An Interview with Christopher Terman on Teaching Computation Structures" %}}
+{{% resource_link "6b51b112-bd65-9ef1-947d-69b7a6dd049d" "An Interview with Christopher Terman on Teaching Computation Structures" %}}
 
 {{< resource uuid="c6349d75-30a9-cd25-d7bc-699c0edc1647" href_uuid="132b4773-3716-6146-d893-4c0c2f80c3da" >}}
 
 View by chapter
 
-- {{% resource_link 132b4773-3716-6146-d893-4c0c2f80c3da "Meet the Educator" %}}
-- {{% resource_link 5e39e75f-7595-9088-a5e3-bb6755e848c8 "When Students Come with Different Backgrounds, Offer a Buffet of Learning Materials" %}}
-- {{% resource_link df2d7ba2-ac0b-c7eb-54b8-89527e4bc256 "Using the MITx Platform to Structure Learning Sequences" %}}
-- {{% resource_link 039d8ea6-389d-03c9-87dc-3c26e42a6772 "Conceptualizing Online Courses as Educational Labs" %}}
-- {{% resource_link 213c16bc-3a1a-9535-e06a-6e14bfde68e0 "Teaching Large Lecture Classes: The Importance of Stories and Disfluency" %}}
-- {{% resource_link 165f36c1-ed46-8737-b10a-45ffbd80355e "The Teaching Team: From Lab Assistants to Faculty Members, the Range of Experience is Key" %}}
-- {{% resource_link 9d3ba6e3-ca45-bb85-5a16-9a2882c4086a "With Online Fora, Being Stuck is Just a 10-Minute Process" %}}
-- {{% resource_link 538fd312-ab5f-ab3e-a60a-79da2bcbcf3f "Using Browser-Based Programming Environments to Engage Students in the Practice of Engineering" %}}
-- {{% resource_link 47cd64fd-e729-c3ac-c9d2-799bbe596c2c "A Common Challenge Students Face: Developing Confidence in Systematically Solving Problems" %}}
-- {{% resource_link 0be907b0-2066-31d3-366b-397a5428686b "Hallway Learning: The Value of Common Learning Experiences at the Undergraduate Level" %}}
-- {{% resource_link c55634af-39dd-9b36-aea5-15aa26ab4768 "The Fun is in the Doing of the Puzzle: Self-Paced Mastery Learning and Moving Beyond the Answer" %}}
-- {{% resource_link 7f0a0e25-9907-2ea8-a857-1345faaf1d92 "Engineering Learning Materials: An Iterative Process" %}}
+- {{% resource_link "132b4773-3716-6146-d893-4c0c2f80c3da" "Meet the Educator" %}}
+- {{% resource_link "5e39e75f-7595-9088-a5e3-bb6755e848c8" "When Students Come with Different Backgrounds, Offer a Buffet of Learning Materials" %}}
+- {{% resource_link "df2d7ba2-ac0b-c7eb-54b8-89527e4bc256" "Using the MITx Platform to Structure Learning Sequences" %}}
+- {{% resource_link "039d8ea6-389d-03c9-87dc-3c26e42a6772" "Conceptualizing Online Courses as Educational Labs" %}}
+- {{% resource_link "213c16bc-3a1a-9535-e06a-6e14bfde68e0" "Teaching Large Lecture Classes: The Importance of Stories and Disfluency" %}}
+- {{% resource_link "165f36c1-ed46-8737-b10a-45ffbd80355e" "The Teaching Team: From Lab Assistants to Faculty Members, the Range of Experience is Key" %}}
+- {{% resource_link "9d3ba6e3-ca45-bb85-5a16-9a2882c4086a" "With Online Fora, Being Stuck is Just a 10-Minute Process" %}}
+- {{% resource_link "538fd312-ab5f-ab3e-a60a-79da2bcbcf3f" "Using Browser-Based Programming Environments to Engage Students in the Practice of Engineering" %}}
+- {{% resource_link "47cd64fd-e729-c3ac-c9d2-799bbe596c2c" "A Common Challenge Students Face: Developing Confidence in Systematically Solving Problems" %}}
+- {{% resource_link "0be907b0-2066-31d3-366b-397a5428686b" "Hallway Learning: The Value of Common Learning Experiences at the Undergraduate Level" %}}
+- {{% resource_link "c55634af-39dd-9b36-aea5-15aa26ab4768" "The Fun is in the Doing of the Puzzle: Self-Paced Mastery Learning and Moving Beyond the Answer" %}}
+- {{% resource_link "7f0a0e25-9907-2ea8-a857-1345faaf1d92" "Engineering Learning Materials: An Iterative Process" %}}
 
-{{< simplecast 7f1a19e0-3ded-4563-bd25-d14c5593c2ea >}}
+{{< resource uuid="45315288-32a9-4989-90a1-1a5233b3bbba" >}}
 
 ## Curriculum Information
 
 ### Prerequisites
 
-- [_8.02 Physics II: Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007)
+- [*8.02 Physics II: Electricity and Magnetism*](https://ocw-studio.odl.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007)
 - Students should feel comfortable using computers. A rudimentary knowledge of programming language concepts and electrical fundamentals is assumed.
 
 ### Requirements Satisfied

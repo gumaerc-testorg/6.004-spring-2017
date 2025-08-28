@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Resource:'
-file: /courses/6-004-computation-structures-spring-2017/db49e401bf3dff26f96252c672480569_pipelined_answers.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2017/db49e401bf3dff26f96252c672480569_pipelined_answers.pdf
 file_size: 611190
 file_type: application/pdf
 learning_resource_types: []

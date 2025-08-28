@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Resource:'
-file: /courses/6-004-computation-structures-spring-2017/04fbb92c2eb9a71ce162cc7dd9962e3a_synchronization_answers.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2017/04fbb92c2eb9a71ce162cc7dd9962e3a_synchronization_answers.pdf
 file_size: 658380
 file_type: application/pdf
 learning_resource_types: []
